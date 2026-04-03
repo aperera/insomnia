@@ -68,7 +68,7 @@
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "jest": "^28.1.0",
     "svg-text-to-path": "^1.1.2",
-    "svgo": "^2.8.0",
+    "svgo": "^2.8.2",
     "ts-jest": "^28.0.1",
     "tslib": "2.0.1",
     "type-fest": "^2.12.0",
